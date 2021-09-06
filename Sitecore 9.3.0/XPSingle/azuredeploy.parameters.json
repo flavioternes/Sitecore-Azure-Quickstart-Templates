@@ -24,7 +24,7 @@
       "value": ""
     },
     "singleMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://c9euseprdgenshared.blob.core.windows.net/scpackages/Sitecore%209.3.0%20rev.%20003498%20(Cloud)_single.scwdp.zip?sv=2019-10-10&st=2021-09-06T14%3A38%3A37Z&se=2021-09-09T14%3A38%3A00Z&sr=b&sp=r&sig=ikFqt%2Fdnp1sImrK7BhKG%2B3oHmV5lCp%2BAua%2B%2FLyGvSxI%3D"
     },
     "xcSingleMsDeployPackageUrl": {
       "value": ""
